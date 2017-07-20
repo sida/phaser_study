@@ -1,0 +1,19 @@
+{
+  "name": "tsgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/underscore": "^1.8.1",
+    "phaser": "^2.6.2",
+    "ts-loader": "^2.3.1",
+    "typescript": "^2.4.2",
+    "underscore": "^1.8.3",
+    "webpack": "^3.3.0"
+  }
+}
